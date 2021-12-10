@@ -9,3 +9,5 @@
 ## Screenshots
 
 <img src="https://github.com/gauravtopre9/Traffic_Sign_Classification_System/blob/main/Capture1.PNG">
+
+<img src= "https://github.com/gauravtopre9/Traffic_Sign_Classification_System/blob/main/Capture2.PNG">
