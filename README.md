@@ -6,8 +6,19 @@
 
 ## Dataset Link : [Click Here to Download](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
-## Screenshots
+## Steps in Traffic sign Classification WebApplication
+
+**1. Click to upload Image**
+
+<img src= "https://github.com/gauravtopre9/Traffic_Sign_Classification_System/blob/main/Capture0.PNG">
+
+**2. Preview of Image Uploaded**
 
 <img src="https://github.com/gauravtopre9/Traffic_Sign_Classification_System/blob/main/Capture1.PNG">
 
+**3. Image Recognized**
+
 <img src= "https://github.com/gauravtopre9/Traffic_Sign_Classification_System/blob/main/Capture2.PNG">
+
+
+## Thank You for Visiting !!
