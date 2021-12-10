@@ -16,7 +16,7 @@
 
 <img src="https://github.com/gauravtopre9/Traffic_Sign_Classification_System/blob/main/Capture1.PNG">
 
-**3. Image Recognized**
+**3. Image Classified**
 
 <img src= "https://github.com/gauravtopre9/Traffic_Sign_Classification_System/blob/main/Capture2.PNG">
 
